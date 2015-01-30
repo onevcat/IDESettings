@@ -8,5 +8,6 @@
     <toolWindow group="Vcs Messages" />
     <toolWindow group="Inspection Results" />
     <toolWindow group="Debugger messages" />
+    <toolWindow group="Common Version Control Messages" />
   </component>
 </application>
