@@ -7,6 +7,10 @@
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="F2" />
+    <keyboard-shortcut first-keystroke="meta UNDERSCORE" />
+  </action>
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="meta B" />
   </action>
