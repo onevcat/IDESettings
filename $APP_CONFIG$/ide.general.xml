@@ -1,6 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="lastTip" value="80" />
+    <option name="lastTip" value="81" />
     <option name="showTipsOnStartup" value="true" />
     <option name="showOccupiedMemory" value="false" />
     <option name="reopenLastProject" value="true" />
@@ -14,6 +14,6 @@
     <option name="searchInBackground" value="false" />
     <option name="confirmExit" value="false" />
     <option name="confirmOpenNewProject2" value="-1" />
-    <option name="lastProjectLocation" value="$USER_HOME$/GoProject" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Dropbox/github/UniWebView2/Plugin/Source" />
   </component>
 </application>
