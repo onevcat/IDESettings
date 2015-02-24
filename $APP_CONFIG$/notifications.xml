@@ -5,9 +5,9 @@
     <notification groupId="Android XML code style notification" shouldLog="false" />
     <toolWindow group="Find in Path" />
     <toolWindow group="Android Session Restarted" />
+    <toolWindow group="Common Version Control Messages" />
+    <toolWindow group="Debugger messages" />
     <toolWindow group="Vcs Messages" />
     <toolWindow group="Inspection Results" />
-    <toolWindow group="Debugger messages" />
-    <toolWindow group="Common Version Control Messages" />
   </component>
 </application>
