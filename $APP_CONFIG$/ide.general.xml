@@ -1,6 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="lastTip" value="11" />
+    <option name="lastTip" value="12" />
     <option name="showTipsOnStartup" value="true" />
     <option name="showOccupiedMemory" value="false" />
     <option name="reopenLastProject" value="true" />
