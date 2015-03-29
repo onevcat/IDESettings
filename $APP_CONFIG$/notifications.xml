@@ -1,13 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Android XML code style notification" shouldLog="false" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Maven Import" displayType="STICKY_BALLOON" />
-    <notification groupId="Android XML code style notification" shouldLog="false" />
-    <toolWindow group="Find in Path" />
-    <toolWindow group="Android Session Restarted" />
-    <toolWindow group="Vcs Messages" />
-    <toolWindow group="Inspection Results" />
-    <toolWindow group="Debugger messages" />
-    <toolWindow group="Common Version Control Messages" />
   </component>
 </application>
