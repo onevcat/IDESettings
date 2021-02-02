@@ -3,7 +3,7 @@
     <property name="created">2021-02-02T21:15:26</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.2.0</property>
-    <property name="modified">2021-02-02T21:48:21</property>
+    <property name="modified">2021-02-02T23:24:52</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -54,9 +54,14 @@
       </value>
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="KOTLIN_ENUM_ENTRY">
+      <value>
+        <option name="FOREGROUND" value="e16ee4" />
+      </value>
+    </option>
     <option name="KOTLIN_EXTENSION_FUNCTION_CALL">
       <value>
-        <option name="FOREGROUND" value="5da949" />
+        <option name="FOREGROUND" value="72c14c" />
       </value>
     </option>
     <option name="KOTLIN_INSTANCE_PROPERTY_CUSTOM_PROPERTY_DECLARATION">
