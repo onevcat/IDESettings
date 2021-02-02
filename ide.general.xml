@@ -7,5 +7,6 @@
     <entry key="ide.firstStartup" value="false" />
     <entry key="ide.balloon.shadow.size" value="0" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
+    <entry key="external.system.auto.import.disabled" value="true" />
   </component>
 </application>
