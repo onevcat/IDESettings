@@ -1271,8 +1271,9 @@
         <entry key="*.rs">
           <value>
             <plugin>
-              <option name="myPluginId" value="org.rust.lang" />
-              <option name="myPluginName" value="Rust" />
+              <option name="myPluginId" value="org.jetbrains.android" />
+              <option name="myPluginName" value="Android" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
