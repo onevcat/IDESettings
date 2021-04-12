@@ -155,6 +155,7 @@
       <debugger id="ObjectiveC">
         <configuration>
           <option name="VALUES_FILTER_ENABLED" value="false" />
+          <option name="LLDB_NATVIS_RENDERERS_ENABLED" value="false" />
         </configuration>
       </debugger>
       <debugger id="javascript">
@@ -164,7 +165,7 @@
       </debugger>
       <debugger id="Rust">
         <configuration>
-          <option name="lldbPath" value="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2020.3/intellij-rust/lldb" />
+          <option name="lldbPath" value="$USER_HOME$/Library/Caches/JetBrains/IntelliJIdea2021.1/intellij-rust/lldb" />
         </configuration>
       </debugger>
     </debuggers>
