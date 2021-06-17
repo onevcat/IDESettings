@@ -107,6 +107,11 @@
                       <FeaturePluginData displayName="Database Script" pluginName="Database Tools and SQL" pluginId="com.intellij.database" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="ELM_TEST_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Elm Test" pluginName="Elm" pluginId="org.elm.klazuka" />
+                    </value>
+                  </entry>
                   <entry key="FirefoxRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
